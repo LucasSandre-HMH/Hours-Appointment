@@ -1,0 +1,200 @@
+﻿;;;;;;;;;;;;;;;;OVC;STC;STC;OVC;OVC;;OVC;OVC;STC;STC;;;;STC;STC;OVC;
+General Status;Product Line;Region;Location;Equipment;Model;Quantity;Traceability;Part Number;Serial Number;Scope;Customer ;Rig;Service Order;Project Year;D&I Status;Kick Off;D&I Start;D&I End;Disposition Report Start;Disposition Report End;Repair Status;Repair Kick Off;Create Repair Scope;Repair Start;Repair End;PSI;PSI Comments;T&A Status;T&A Start;T&A End;Ready for Collection;Comments
+Closed;Pressure Control;SAM;Macae;H4 Connector;SHD;1;-;H429235-1H931;-;FPA;Transocean;Deepwater Mykonos;470001444;2024;Closed;29/02/2024;18/03/2024;06/04/2024;06/04/2024;10/04/2024;Closed;02/05/2024;17/04/2024;06/05/2024;11/08/2024;Yes;The Complete FPA Scope was sold.;Closed;02/08/2024;16/08/2024;11/10/2024;"* The main challenge was the machining process with the Trawema machine. Fixing the headstock, manufacturing of special devices and tools, corrugation in the VX/VT groove.
+* The coating process was carried out by an external supplier due to the lack of structure for phosphating, impacting the overhaul cycle time by more than 4 weeks."
+Closed;Pressure Control;SAM;Macae;H4 Connector;SHD;1;-;H177227-1H809;-;Transactional;Valaris;DS-4;470001684;2024;Closed;07/03/2024;09/03/2024;27/03/2024;27/03/2024;12/04/2024;Closed;08/05/2024;10/05/2024;13/05/2024;04/06/2024;Yes;The parts were sold and considered in the PSI.;Closed;08/07/2024;13/07/2024;19/12/2024;"* Few repairs were performed.
+* Customer requested the replacement of cylinder heads twice and also to re-do the functional and body pressure tests, therefore test dates from 07/08 till 08/05 and final completion date on 10/12 aren't valid anymore."
+Closed;Pressure Control;SAM;Macae;H4 Connector;ExF;1;-;H350100-1H801;-;Transactional;Valaris;DS-4;470001635;2024;Closed;05/03/2024;08/03/2024;29/03/2024;29/03/2024;19/04/2024;Closed;31/07/2024;03/05/2024;02/08/2024;11/10/2024;Yes;The parts were sold and considered in the PSI.;Closed;14/10/2024;26/10/2024;10/12/2024;"* Due to change of plans, there will be a 3 weeks impact over the repair cycle time (Internal coating changed to supplier)
+* AxT body test phase is taking longer than expected due to the inspector's monitoring - 2 days delay
+* 16 days delay in A&T as testing had to be interrupted. Recertification of the test flange."
+Closed;Pressure Control;SAM;Macae;ABOP;GX 18-10;1;FOR-AB-001;3130986-16;-;Transactional;Foresea;Norbe VI;470001883;2024;Closed;27/03/2024;03/04/2024;28/04/2024;01/05/2024;21/05/2024;Closed;26/07/2024;01/07/2024;30/07/2024;07/12/2024;No;The customer never buys the parts with HMH, he always delivers your parts to HMH.;Closed;13/03/2025;23/03/2025;03/06/2025;"* Lack of instruments available to perform all D&I inspections.
+* Awaiting VOR for complete Annular Head repair. Rework will be required.
+* 55 delay on Body Coating at Sub-supplier GP group.
+* 2 weeks delay to prioritizing another Body Constellation project
+* Rework on Head Annular.
+* Slack on HPU Pressure Test, need rework Pressure Test."
+Closed;Pressure Control;SAM;Macae;H4 Connector;DxE;1;-;H164086-1H931;-;Transactional;Constellation;Laguna Star;4603487;2024;Closed;04/04/2024;08/04/2024;03/05/2024;03/05/2024;03/05/2024;Closed;06/06/2024;29/05/2024;10/06/2024;13/08/2024;Yes;The parts were sold and considered in the PSI.;Closed;19/10/2024;07/11/2024;03/12/2024;"* Lack of instruments available at the base (ball gauge and thread gauge was on offshore), thus taking more time to complete all inspections at D&I phase.
+* Challenges with final machining on the Trawema machine. We had to complete this step with an external supplier. Engineering is evaluating limitations.
+* Assembly paused due to wait on spares. ETA Monday 11/11
+* Customer decided perfom the Upper swap and back to assembly this connector again (4 days delay). "
+Wip;Pressure Control;SAM;Macae;Ram Block;N/A;1;CON-RB-001 / 002;3117098-05;-;Transactional;Constellation;Gold Star;470001888;2024;Closed;01/04/2024;03/04/2024;05/04/2024;05/04/2024;13/05/2024;Closed;03/01/2025;03/01/2025;06/01/2025;15/06/2025;No;This equipment doesn’t need parts to assembly.;N/A;;;27/08/2025;"* 5x Ram blocks has arrived during a high demand. It was agreed with the client that we would execute one at a time according to actual capacity.
+* Shot blasting of 5x Ram blocks occurred separately because the preparation was not carried out together with the other pairs.
+* Inspection resource allocated to another equipment of the same client with higher priority (1 week delay).
+* Durometer offshore. There was a delay in renting.
+* Priority conflict during ""low stress"" typing between riser & pressure control.
+* Manual Weld rework and next step too, machining."
+Wip;Pressure Control;SAM;Macae;Ram Block;N/A;1;CON-RB-009 / 010;3118844-07;-;Transactional;Constellation;Gold Star;470001885;2024;Closed;01/04/2024;03/04/2024;05/04/2024;05/04/2024;13/05/2024;Closed;23/12/2024;10/06/2024;27/12/2024;11/06/2025;No;This equipment doesn’t need parts to assembly.;N/A;;;22/08/2025;"* 5x Ram blocks has arrived during a high demand. It was agreed with the client that we would execute one at a time according to actual capacity.
+* Shot blasting of 5x Ram blocks occurred separately because the preparation was not carried out together with the other pairs.
+* Inspection resource allocated to another equipment of the same client with higher priority (1 week delay).
+* Durometer offshore. There was a delay in renting.
+* Priority conflict during ""low stress"" typing between riser & pressure control
+* Manual Weld rework and next step too, machining."
+Wip;Pressure Control;SAM;Macae;Ram Block;N/A;1;CON-RB-003 / 004;3118844-07;-;Transactional;Constellation;Gold Star;470001905;2024;Closed;01/04/2024;08/04/2024;20/04/2024;10/05/2024;13/05/2024;Closed;23/12/2024;10/06/2024;27/12/2024;11/04/2025;No;This equipment doesn’t need parts to assembly.;N/A;;;03/06/2025;"* 5x Ram blocks has arrived during a high demand. It was agreed with the client that we would execute one at a time according to actual capacity.
+* Shot blasting of 5x Ram blocks occurred separately because the preparation was not carried out together with the other pairs.
+* Inspection resource allocated to another equipment of the same client with higher priority (1 week delay).
+* Durometer offshore. There was a delay in renting.
+* Priority conflict during ""low stress"" typing between riser & pressure control
+* Rework weld after final machining by Labodiesel
+* Manual Weld rework and next step too, machining."
+Wip;Pressure Control;SAM;Macae;Ram Block;N/A;1;CON-RB-007 / 008;3117099;-;Transactional;Constellation;Gold Star;470001897;2024;Closed;01/04/2024;08/04/2024;20/04/2024;10/05/2024;13/05/2024;Closed;30/12/2024;10/06/2024;03/01/2025;04/06/2025;No;This equipment doesn’t need parts to assembly.;N/A;;;13/08/2025;"* 5x Ram blocks has arrived during a high demand. It was agreed with the client that we would execute one at a time according to actual capacity.
+* Shot blasting of 5x Ram blocks occurred separately because the preparation was not carried out together with the other pairs.
+* Inspection resource allocated to another equipment of the same client with higher priority (1 week delay).
+* Durometer offshore. There was a delay in renting.
+* Priority conflict during ""low stress"" typing between riser & pressure control
+* Manual Weld rework and next step too, machining."
+Wip;Pressure Control;SAM;Macae;Ram Block;N/A;1;470001894;3166498-01;-;Short Cycle;Constellation;Gold Star;470001894;2024;Closed;01/04/2024;08/04/2024;17/04/2024;10/05/2024;13/05/2024;N/A;;;;;No;This equipment doesn’t need parts to assembly.;N/A;;;13/05/2024;"* 5x Ram blocks has arrived during a high demand. It was agreed with the client that we would execute one at a time according to actual capacity.
+* Shot blasting of 5x Ram blocks occurred separately because the preparation was not carried out together with the other pairs.
+* Inspection resource allocated to another equipment of the same client with higher priority (1 week delay).
+* Durometer offshore. There was a delay in renting.
+* Priority conflict during ""low stress"" typing between riser & pressure control"
+Wip;Pressure Control;SAM;Macae;Test Stump;N/A;1;;;;Short Cycle;Valaris;DS-4;470001959;2024;Closed;08/04/2024;08/04/2024;09/04/2024;09/04/2024;09/04/2024;Closed;05/04/2024;09/04/2024;09/04/2024;13/04/2024;No;This equipment doesn’t need parts to assembly.;N/A;;;13/04/2024;
+Wip;Pressure Control;SAM;Macae;Ram Block;N/A;1;;;;FPA;Foresea;ODN II;470000402;2024;Closed;10/01/2024;31/01/2024;07/02/2024;22/02/2024;26/02/2024;Closed;11/03/2024;01/03/2024;12/03/2024;01/05/2024;No;The customer never buys the parts with HMH, he always delivers your parts to HMH.;N/A;;;05/06/2024;"* In D&I there was a conflict in prioritization between ongoing projects and low resource capacity at the time.
+* Machining supplier delivery dates take more than 2 weeks per phase. Considering pre-machining, intermediate machining and final machining stages, it is 6 weeks.
+* 2-week delay in performing heat treatment. There was only one operator to monitor three machines."
+Closed;Pressure Control;SAM;Macae;Test Stump;N/A;1;VAL-TS-001;H212844-2H801;-;FPA;Valaris;DS-4;470001325;2024;Closed;29/01/2024;22/02/2024;28/02/2024;04/03/2024;12/03/2024;Closed;21/03/2024;10/03/2024;25/03/2024;05/04/2024;No;This equipment doesn’t need parts to assembly.;Closed;18/07/2024;25/07/2024;12/08/2024;"* 4 days delay due to prioritization of repair of another test stump
+* 2 weeks waiting for window to weld VX/VT in cladding
+* high demand for coating caused a 1-week wait to apply the phosphate and epoxy. Discrepancies were also found in the painting sketch."
+Closed;Pressure Control;SAM;Macae;Bonnet;15-3K;1;FOR-BB-001;3133782-02;-;Transactional;Foresea;ODN I;470002470;2024;Closed;11/06/2024;18/06/2024;28/06/2024;28/06/2024;17/07/2024;Closed;10/02/2025;10/03/2025;12/02/2025;04/07/2025;No;The customer never buys the parts with HMH, he always delivers your parts to HMH.;Closed;22/09/2025;08/10/2025;19/11/2025;"*Routine & Quote Revalidation W07 - 3 Weeks delay
+* Repair on supplier - 10 weeks 
+* In the T&A we are waiting parts from customer - Delay of 20 Days"
+Closed;Pressure Control;SAM;Macae;Bonnet;15-3K;1;FOR-BB-002;3133782-02;-;Transactional;Foresea;ODN I;470002474;2024;Closed;11/06/2024;18/06/2024;30/06/2024;05/07/2024;26/07/2024;Closed;04/11/2024;18/09/2024;06/11/2024;26/02/2025;No;The customer never buys the parts with HMH, he always delivers your parts to HMH.;Closed;19/05/2025;31/05/2025;04/06/2025;"* Body & Cylinder returned together 12/06 from pre-machining. It took longer than normal because there was a considerable machine queue and due to prioritization of CSA Constellation projects, 3 weeks delay
+* Cylinder sent to níkel coating at GP on W50 and return on W14 (16 weeks) - cobre application
+* Body machining delay because the machinery was broken (5 days delay)
+* 2-day delay, waiting for the customer to send the test plug.
+* 1 day delay, HPU gives a problem.
+* 5 days delay, waiting in a queue of BOP Annular."
+Closed;Pressure Control;SAM;Macae;Bonnet;15-3K;1;FOR-BB-003;3133782-02;-;Transactional;Foresea;ODN II;470002523;2024;Closed;11/06/2024;18/06/2024;01/07/2024;05/07/2024;26/07/2024;Closed;14/03/2025;17/03/2025;18/03/2025;21/07/2025;No;The customer never buys the parts with HMH, he always delivers your parts to HMH.;Closed;30/09/2025;16/10/2025;19/11/2025;"* Repair on supplier - 15 weeks.
+* In the T&A we are waiting parts from customer - Delay of 20 Days"
+Closed;Pressure Control;SAM;Macae;Diverter;FS21;1;-;3142550-01;-;Transactional;Constellation;Gold Star;470002548;2024;Closed;26/06/2024;04/07/2024;10/07/2024;10/07/2024;10/07/2024;Closed;24/07/2024;10/07/2024;26/07/2024;03/08/2024;Yes;The parts were sold and considered in the PSI.;Closed;05/08/2024;17/08/2024;17/08/2024;"* Working in 2 shifts, overtimes and weekends.
+* Failed on pressure test, NCR was opened and A&T restarted."
+Closed;Topsides;SAM;Macae;Gripper Head;N/A;1;;;;Transactional;Foresea;Norbe VIII;470002581;2024;Closed;12/08/2024;14/08/2024;16/09/2024;23/09/2024;02/10/2024;Closed;10/03/2025;10/03/2025;12/03/2025;27/08/2025;No;The customer never buys the parts with HMH, he always delivers your parts to HMH.;Closed;03/11/2025;13/11/2025;15/01/2026;"* delay waiting shotblasting from 08/26 till 09/04
+*  Extra inspections from 09/23 to 09/27"
+Wip;Topsides;SAM;Macae;Gripper Head;N/A;1;;;;Transactional;Foresea;ODN I;470002751;2024;Closed;26/08/2024;28/08/2024;22/09/2024;27/09/2024;08/10/2024;WIP;24/04/2025;28/04/2025;28/04/2025;12/10/2025;No;The customer never buys the parts with HMH, he always delivers your parts to HMH.;WIP;05/01/2026;;;"*  Extra inspections from 09/23 to 09/27
+* 8 weeks for review scope
+* 3 weeks for accept the quotation
+* Total repair at the subsupplier (09 mouths delay)
+* Multiple reworks was performed
+* Delay due to insufficient labor for disassembly during the docking period of the Lone and Amaralina rigs"
+Waiting Parts;Riser;SAM;Macae;Riser Joint;LK-3.5;15;;;;Transactional;Noble;Ocean Courage;470002890;2024;Closed;14/08/2024;19/08/2024;11/10/2024;31/10/2024;04/11/2024;Closed;08/11/2024;08/11/2024;11/11/2024;07/06/2025;Yes;The parts were sold and considered in the PSI.;Waiting Parts;01/07/2025;;;* Prior Riser CSA per 1 month
+Wip;Riser;SAM;Macae;Riser Joint;QTR-3500;36;;;;Short Cycle;Constellation;Lone Star;470002599;2024;Closed;17/06/2024;26/06/2024;23/08/2024;23/08/2024;28/08/2024;N/A;;;;;No;This equipment was a short-cycle scope and doesn’t need an assembly.;N/A;;;28/08/2024;* Many scope change by the customer + waiting repair PO's , that were included on Riser CSA scope after
+Closed;Riser;SAM;Macae;Riser Joint;QTR-3500;43;;;;Transactional;Constellation;Alpha Star;470002557;2024;Closed;18/04/2024;06/05/2024;26/07/2024;26/07/2024;20/07/2024;Closed;29/07/2024;31/07/2024;31/07/2024;21/02/2025;Yes;The parts were sold and considered in the PSI.;Closed;24/02/2025;11/03/2025;17/03/2025;Delay due seals replacement + Priorizaition of Alpha Star CSA delivery + supplier delay to deliver spare parts
+Wip;Riser;SAM;Macae;Riser Joint;QTR-3500;12;;;;Short Cycle;Constellation;Gold Star;4606029;2024;Closed;08/05/2024;15/05/2024;21/08/2024;21/08/2024;27/08/2024;N/A;;;;;No;This equipment was a short-cycle scope and doesn’t need an assembly.;N/A;;;27/08/2024;* Transformed in CSA Constellation project 
+Closed;Topsides;SAM;Macae;Callipers;Main Brake;4;;;;Transactional;Ventura;SSV - Victoria;470002645;2024;Closed;22/03/2024;26/03/2024;02/04/2024;02/04/2024;03/04/2024;Closed;03/04/2024;05/04/2024;05/04/2024;12/04/2024;Yes;The parts were sold and considered in the PSI.;Closed;22/07/2024;06/08/2024;06/08/2024;* 5 days of preparation for assembly due to high corrosion of Calipers.
+Waiting Parts;Riser;SAM;Macae;Telescopic Joint;MR6H;1;DS-04B;;;Transactional;Valaris;DS-4;470003308;2024;Closed;27/09/2024;21/10/2024;23/12/2024;10/01/2025;10/03/2025;Closed;30/07/2025;05/08/2025;18/08/2025;10/11/2025;Yes;The parts were sold and considered in the PSI.;Waiting Parts;;;;"* Only D&I and Coating PO of approved parts 
+* Delay by the supplier - 2 weeks after the deadline
+* Awaiting nipples for welding lines from customer
+* FAB housing rework
+* Spare parts will be sent by the costumer. No sub-assembly available for assembly"
+Closed;Riser;SAM;Macae;Riser Joint;LK-3.5;14;;;;Short Cycle;Noble;Ocean Courage;470002702;2025;Closed;30/09/2024;16/10/2024;15/11/2024;15/11/2024;15/11/2024;Closed;29/11/2024;27/11/2024;02/12/2024;07/02/2025;Yes;The parts were sold and considered in the PSI.;Closed;24/03/2025;07/04/2025;17/04/2025;* Prior Riser CSA
+Wip;Riser;SAM;Macae;Riser Joint;QTR-3500;1;;;;Transactional;Constellation;Lone Star;470001985;2024;Closed;12/09/2024;26/09/2024;07/10/2024;07/10/2024;18/10/2024;N/A;;;;;Yes;The parts were sold and considered in the PSI.;N/A;;;18/10/2024;
+Wip;Pressure Control;SAM;Macae;Annular Piston;GX 18-10;1;;;;Transactional;Valaris;DS-4;470003502;2024;Closed;18/10/2024;21/10/2024;28/10/2024;30/10/2024;31/10/2024;Closed;23/01/2025;24/01/2025;27/01/2025;03/04/2025;No;This equipment doesn’t need parts to assembly.;N/A;;;09/05/2025;"* We used the metronor in the abscense of the external micrometer.
+* Rework of weld after final machining by Labodiesel"
+Wip;Pressure Control;SAM;Macae;Ram Block;Variable Ram;1;CON-RB-011 / 012;3117099-04;-;Transactional;Constellation;Alpha Star;470003540;2024;Closed;22/10/2024;23/10/2024;25/10/2024;25/10/2024;25/10/2024;Closed;25/10/2024;29/10/2024;29/10/2024;16/11/2024;No;This equipment doesn’t need parts to assembly.;N/A;;;16/11/2024;"* Manual preparation instead of shotblasting was more effective.
+* All measuring instruments were available at the workshop.
+* 2 quality inspectors working at the same time.
+* 1 week delay on welding rework. This was performed at sub-supplier."
+Wip;Pressure Control;SAM;Macae;Ram Block;Fixed Ram;1;CON-RB-013 / 014;3147818-10;-;Short Cycle;Constellation;Alpha Star;470003544;2024;Closed;22/10/2024;23/10/2024;25/10/2024;25/10/2024;25/10/2024;N/A;;;;;No;This equipment doesn’t need parts to assembly.;N/A;;;25/10/2024;"* Manual preparation instead of shotblasting was more effective.
+* All measuring instruments were available at the workshop.
+* 2 quality inspectors working at the same time."
+Closed;Pressure Control;SAM;Macae;Diverter;FS21;1;-;3142550-01;-;Transactional;Constellation;Alpha Star;470003545;2024;Closed;01/11/2024;04/11/2024;12/11/2024;16/11/2024;21/11/2024;Closed;02/12/2024;02/12/2024;03/12/2024;29/12/2024;No;This scope doesn't include a complete assembly and requires replacing a high number of parts.;Closed;16/01/2025;19/01/2025;19/01/2025;"* Manual preparation instead of blasting was more effective.
+* 2 days discussing whether we'll perform the machining in house.
+* Rework on Diverter Base due to pre machining failure. Impact of 2 weeks on the chronogram;"
+Wip;Pressure Control;SAM;Macae;Annular Piston;GX 18-10;1;;;;Transactional;Ventura;SSV - Victoria;470003651;2024;Closed;01/11/2024;06/11/2024;09/11/2024;09/11/2024;11/11/2024;Closed;10/01/2025;20/12/2024;13/01/2025;30/03/2025;No;This equipment doesn’t need parts to assembly.;N/A;;;20/05/2025;"* Repair on supplier - 7 weeks
+* Rework of weld after final machining by Labodiesel (2 weeks delay)"
+Closed;Topsides;SAM;Macae;DDM;1000 AC-2M;1;;;;Transactional;Foresea;Norbe IV;470003048;2024;Closed;19/11/2024;20/11/2024;13/01/2025;17/01/2025;24/01/2025;Closed;24/01/2025;23/01/2025;28/01/2025;26/03/2025;No;The customer never buys the parts with HMH, he always delivers your parts to HMH.;Closed;14/04/2025;05/06/2025;21/01/2026;"* Risk release on D&I
+* Stoped project (1 week delay)
+* Not executed in two shifts because started without PO
+* Shotblasting not executed in W52 to prioritize Riser projects
+* External repair of some parts without release disposition to antecipate the assembly (FPA equipment)
+* 2 weeks delay 1° batch coating to prioritize 43J
+* Follow up with sub suppliers
+* On 30/04/2025, complete all assembly with parts available, after need waiting parts
+* The last spare parts was re"
+Wip;Pressure Control;SAM;Macae;ABOP;N/A;1;;;;Short Cycle;Constellation;Alpha Star;470003062;2024;Closed;09/09/2024;10/09/2024;17/09/2024;17/09/2024;20/09/2024;N/A;;;;;No;This equipment was a short-cycle scope and doesn’t need an assembly.;N/A;;;20/09/2024;"* Manual preparation instead of shotblasting was more effective.
+* We D&I only the Annular Body.
+* Became scrap"
+Closed;Riser;SAM;Macae;Riser Joint;LK-3.5;31;;;;Short Cycle;Noble;Ocean Courage;470002676;2025;Closed;05/07/2024;21/08/2024;01/10/2024;01/10/2024;04/10/2024;Closed;29/11/2024;02/10/2024;02/12/2024;14/02/2025;Yes;The parts were sold and considered in the PSI.;Closed;17/02/2025;07/03/2025;10/03/2025;"* 2 weeks delay to do the kickoff
+* Prior 43J Constellation project
+* Prior Riser CSA"
+Wip;Pressure Control;SAM;Macae;H4 Connector;DxE;1;CON-UB-004;H215919-1H931;-;Short Cycle;Constellation;Alpha Star;470003699;2024;Closed;28/11/2024;29/11/2024;04/12/2024;04/12/2024;05/12/2024;Closed;03/12/2024;05/12/2024;06/12/2024;18/12/2024;No;This equipment was a short-cycle scope and doesn’t need an assembly.;N/A;;;03/01/2025;"* Challenges with Trawema during the machining of the VX/VT 16-3/4"" groove. The skin cut was performed by the D21.
+* Nudge pin oversized and tests
+* During the testing of the cartridges (requested by the customer, outside the original scope sold) scratches were identified in the cartridge bores that caused leaks.
+* It was necessary to modify the cartridge bores, a service that caused a delay of 2 weeks."""
+Wip;Pressure Control;SAM;Macae;H4 Connector;DWHD;1;CON-UB-005;H165069-1H931;-;Short Cycle;Constellation;Alpha Star;470003713;2024;Closed;26/11/2024;28/11/2024;30/11/2024;30/11/2024;02/12/2024;Closed;02/12/2024;28/11/2024;03/12/2024;15/12/2024;No;This equipment was a short-cycle scope and doesn’t need an assembly.;N/A;;;18/12/2024;
+Wip;Pressure Control;SAM;Macae;H4 Connector;ExF;1;CON-UB-006;H148935-6H931;-;Short Cycle;Constellation;Alpha Star;470003747;2024;Closed;26/11/2024;27/11/2024;30/11/2024;30/11/2024;02/12/2024;Closed;02/12/2024;03/12/2024;03/12/2024;16/12/2024;No;This equipment was a short-cycle scope and doesn’t need an assembly.;N/A;;;19/12/2024;
+Wip;Pressure Control;SAM;Macae;Ram Block;Pipe Ram;1;CON-RB-015 / 016;3147818-10;-;Transactional;Constellation;Alpha Star;470004099;2025;Closed;09/01/2025;13/01/2025;21/01/2025;21/01/2025;03/02/2025;Closed;21/02/2025;17/02/2025;24/02/2025;06/04/2025;No;This equipment doesn’t need parts to assembly.;N/A;;;30/04/2025;* 3 days delay to start V/D and Hardness inspections because prioritize the Diverter project
+Wip;Pressure Control;SAM;Macae;Bonnet;22-5K;1;;;;Short Cycle;Constellation;Alpha Star;470003811;2024;Closed;26/10/2024;28/10/2024;11/11/2024;11/11/2024;20/11/2024;Closed;26/11/2024;27/11/2024;28/11/2024;20/12/2024;No;This equipment was a short-cycle scope and doesn’t need an assembly.;N/A;;;20/12/2024;* Subsupplier delay from 13/12 till 20/12 (1 week)
+Closed;Topsides;SAM;Macae;Travelling Block;1000T;1;;;;FPA;Foresea;Norbe IX;470003026;2025;Closed;14/01/2025;20/01/2025;13/02/2025;19/02/2025;25/02/2025;Closed;31/03/2025;17/03/2025;02/04/2025;19/06/2025;No;The customer never buys the parts with HMH, he always delivers your parts to HMH.;Closed;05/08/2025;15/08/2025;25/09/2025;"* Cylinder Hyd subcontrating
+* Challenges on disassembly of Side plates (3 days delay)
+* Challenges on Main shaft disassembly (5 days delay)
+* Partial shotblasting of parts is being performed. This has a direct impact on the NDT inspector's production
+* NDT inspector availability
+* Issues found during dimensional inspection after final machining. Will be necessary to weld on rework. (3-4 weeks delay)"
+Wip;Pressure Control;SAM;Macae;Ram Block;Variable Ram;1;CON-RB-017 / 018;3147818-19;-;Transactional;Constellation;Alpha Star;470004100;2025;Closed;27/01/2025;28/01/2025;05/02/2025;06/02/2025;03/02/2025;Closed;17/03/2025;18/03/2025;18/03/2025;07/05/2025;No;This equipment doesn’t need parts to assembly.;N/A;;;03/06/2025;"* 1 day delay for iniciate (pending manpower)
+* 3 days delay for disassembly of Packer (it's the first time we've received this equipment with the packer assembled)
+* 1 day delay for start END inspections (pending manpower)
+* Machining rework."
+Closed;Topsides;SAM;Macae;Crown Block (Sheave Cluster);N/A;1;;;;FPA;Foresea;Norbe IX;470004563;2025;Closed;04/02/2025;10/02/2025;20/02/2025;22/02/2025;11/04/2025;Closed;25/04/2025;28/04/2025;28/04/2025;21/06/2025;No;The customer never buys the parts with HMH, he always delivers your parts to HMH.;Closed;11/08/2025;24/08/2025;19/09/2025;"* Sheaves with severe corrosion, taking longer than usual to prepare for dimensional inspection;
+* Prioritization of shotblasting/painting of DDM 1000 project, 5 days delay;
+* Not necessary NDT inspections."
+Closed;Pressure Control;SAM;Macae;H4 Connector;SHD;1;-;H478860-1H566;-;FPA;Transocean;Deepwater Corcovado;470004534;2025;Closed;27/03/2025;02/04/2025;16/04/2025;25/04/2025;05/05/2025;Closed;27/05/2025;23/05/2025;28/05/2025;18/08/2025;Yes;The Complete FPA Scope was sold.;Closed;28/01/2026;09/02/2026;19/02/2026;"* Cam ring & Dogs was received from Houston on W04/26 with issues.
+* Hold & witness point DNV/TOI
+* Working on two shift"
+Closed;Pressure Control;SAM;Macae;H4 Connector;DWHD;1;CON-UP-007;H164083-1H931;-;Short Cycle;Constellation;Lone Star;470001241;2025;Closed;20/01/2025;20/01/2025;23/01/2025;23/01/2025;23/01/2025;Closed;23/01/2025;21/01/2025;23/01/2025;27/01/2025;No;This equipment doesn’t need parts to assembly.;Closed;24/02/2025;10/03/2025;18/03/2025;"* D&I executed in 3 days
+* Repair VX/VT in 5 days
+* There have been several changes to the initial scope. For both D&I and repair
+* Aditional repair in progress"
+Wip;Pressure Control;SAM;Macae;Ram Block;Variable Ram;1;CON-RB-019 / 020;;-;Transactional;Constellation;Lone Star;470004598;2025;Closed;13/02/2025;14/02/2025;22/02/2025;24/02/2025;10/03/2025;Closed;28/05/2025;29/05/2025;04/06/2025;23/08/2025;No;This equipment doesn’t need parts to assembly.;N/A;;;26/09/2025;"* 2 days delay for iniciate (pending manpower)
+* Ram block came with Packer"
+Wip;Pressure Control;SAM;Macae;Ram Block;Variable Ram;1;CON-RB-021 / 022;;-;Transactional;Constellation;Lone Star;470004599;2025;Closed;13/02/2025;17/02/2025;19/02/2025;19/02/2025;20/02/2025;Closed;20/05/2025;26/02/2025;26/05/2025;29/08/2025;No;This equipment doesn’t need parts to assembly.;N/A;;;02/10/2025;
+Wip;Pressure Control;SAM;Macae;Ram Block;Fixed Ram;1;CON-RB-023 / 024;;-;Transactional;Constellation;Lone Star;470004600;2025;Closed;13/02/2025;17/02/2025;19/02/2025;19/02/2025;21/02/2025;Closed;30/05/2025;02/06/2025;05/06/2025;05/09/2025;No;This equipment doesn’t need parts to assembly.;N/A;;;10/10/2025;
+Closed;Riser;SAM;Macae;Riser Joint;QTR-3500;1;Pup MA-002LS;;-;Transactional;Constellation;Gold Star;470001033;2024;Closed;26/01/2024;08/03/2024;15/03/2024;25/03/2024;04/04/2024;Closed;22/11/2024;22/11/2024;25/11/2024;26/11/2024;Yes;The parts were sold and considered in the PSI.;Closed;20/02/2025;25/02/2025;28/02/2025;* Prior 43J Alpha Star
+Wip;Riser;SAM;Macae;Riser Joint;QTR-3500;1;;;;Transactional;Constellation;Lone Star;470001985;2024;Closed;12/09/2024;30/09/2024;04/10/2024;04/10/2024;18/10/2024;N/A;;;;;Yes;The parts were sold and considered in the PSI.;N/A;;;04/10/2024;
+Closed;Riser;SAM;Macae;Riser Joint;QTR-3500;44;;;;Transactional;Constellation;Alpha Star;470004733;2025;Closed;02/01/2025;14/01/2025;03/02/2025;03/02/2025;05/02/2025;N/A;;;;;Yes;The parts were sold and considered in the PSI.;Closed;05/02/2025;19/02/2025;19/02/2025;
+Closed;Riser;SAM;Macae;Riser Joint;LK-3.5;18;;;;Transactional;Noble;Ocean Courage;470001866;2024;Closed;28/03/2024;29/04/2024;17/05/2024;17/05/2024;17/05/2024;Closed;24/05/2024;24/05/2024;27/05/2024;16/08/2024;Yes;The parts were sold and considered in the PSI.;Closed;19/08/2024;30/08/2024;30/08/2024;
+Waiting PO;Topsides;SAM;Macae;Torque Wrenches;N/A;1;;7K-20014509;-;Transactional;SLB;Peregrino;470004623;2025;Closed;27/03/2025;07/04/2025;14/04/2025;14/04/2025;20/04/2025;Waiting PO;;;;;No;This equipment is specific to Cameron and we don't have access on all parts;Waiting PO;;;;* Partial disposition already released on April 20th
+Waiting Parts;Pressure Control;SAM;Macae;Bonnet;19-5K;1;#1;3133173-02;M4012-4;Transactional;Ventura;SSV - Victoria;470005332;2025;Closed;14/02/2025;19/02/2025;01/03/2025;12/03/2025;25/03/2025;Closed;13/05/2025;19/05/2025;21/05/2025;07/11/2025;No;"This is a specific bonnet, only have 4 in the world; the customer prefers delivery of the parts.";Waiting Parts;;;;"* 1 week quotation delay;
+* Issues found on Cylinder chromium process. Will be necessary welding and machining process (W32);
+* Second rework on hydraulic portic #1
+* Spare parts will be sent by the costumer. "
+Closed;Pressure Control;SAM;Macae;Bonnet;19-5K;1;#2;3133173-02;M1453-2;Transactional;Ventura;SSV - Victoria;470005333;2025;Closed;14/02/2025;19/02/2025;03/03/2025;14/03/2025;26/03/2025;Closed;13/05/2025;19/05/2025;21/05/2025;05/10/2025;No;"This is a specific bonnet, only have 4 in the world; the customer prefers delivery of the parts.";Closed;15/12/2025;27/10/2025;;* 1 week quotation delay 
+Waiting PO;Topsides;SAM;Macae;Telescopic Joint;QTR-3500;1;GDS-B;;-;Transactional;Constellation;Gold Star;470005215;2025;Closed;28/05/2025;28/05/2025;29/06/2025;26/08/2025;09/09/2025;Waiting PO;;;;;Yes;The parts were sold and considered in the PSI.;Waiting Other Phase;;;;
+Closed;Pressure Control;SAM;Macae;H4 Connector;ExF;1;;;;FPA;Constellation;Amaralina Star;470005343;2025;Closed;16/05/2025;20/05/2025;31/05/2025;04/06/2025;05/06/2025;Closed;10/06/2025;06/06/2025;11/06/2025;01/09/2025;Yes;The Complete FPA Scope was sold.;Closed;07/10/2025;20/10/2025;11/11/2025;* Machining lead time 45 days
+Closed;Pressure Control;SAM;Macae;Female Stab;N/A;1;;3125555-03;;Transactional;Constellation;Lone Star;470004890;2025;Closed;30/05/2025;03/06/2025;08/06/2025;09/06/2025;16/06/2025;Closed;21/08/2025;22/08/2025;28/08/2025;11/12/2025;No;The customer prefers delivery of the parts for HMH.;Closed;09/02/2026;17/02/2026;09/03/2026;"* Equipment already disassembled
+* Rework on Lower Body & Flange Mounting"
+Closed;Pressure Control;SAM;Macae;Callipers;Main Brake;8;;;;Transactional;Noble;Ocean Courage;470003388;2025;Closed;06/06/2025;09/06/2025;13/06/2025;13/06/2025;18/06/2025;N/A;;;;;Yes;The parts were sold and considered in the PSI.;Closed;22/07/2025;12/08/2025;29/08/2025;* Awaiting spare parts to assy 
+Wip;Pressure Control;SAM;Macae;Ram Block;Variable Ram;1;VEN-RB-001 / 002;;;FPA;Ventura;SSV - Victoria;470005488;2025;Closed;11/06/2025;13/06/2025;14/06/2025;16/06/2025;23/06/2025;Closed;14/07/2025;18/07/2025;21/07/2025;12/10/2025;No;This equipment doesn’t need parts to assembly.;N/A;;;11/11/2025;
+Waiting Parts;Pressure Control;SAM;Macae;Callipers;Main Brake;4;;;;Transactional;Ventura;SSV - Victoria;470005492;2025;Closed;18/06/2025;18/06/2025;20/06/2025;24/06/2025;25/06/2025;N/A;;;;;Yes;The parts were sold and considered in the PSI.;Waiting Parts;;;;* 3 brake callipers are rejected after the final pressure test, engineering is evaluating - 15 days of delay
+Wip;Pressure Control;SAM;Macae;Ram Block;Variable Ram;1;VEN-RB-003 / 004;;;FPA;Ventura;SSV - Victoria;470005489;2025;Closed;20/07/2025;05/08/2025;11/08/2025;13/08/2025;19/08/2025;Closed;20/08/2025;08/09/2025;09/09/2025;26/10/2025;No;This equipment doesn’t need parts to assembly.;N/A;;;20/11/2025;
+Closed;Riser;SAM;Macae;Riser Joint;LK-3.5;1;Pup Joint 40ft 54495;;;Transactional;Noble;Ocean Courage;470005682;2025;Closed;10/07/2025;13/07/2025;17/07/2025;17/07/2025;05/08/2025;N/A;;;;;Yes;The parts were sold and considered in the PSI.;Closed;10/12/2025;12/12/2025;29/12/2025;
+Closed;Riser;SAM;Macae;Telescopic Joint;QTR-3500;1;TJ GDS-A;;;Transactional;Constellation;Gold Star;470003725;2024;Closed;12/12/2023;29/01/2024;09/04/2024;17/05/2024;06/06/2024;Closed;15/01/2025;20/01/2025;21/01/2025;21/05/2025;Yes;The parts were sold and considered in the PSI.;Closed;10/07/2025;31/07/2025;04/08/2025;* Weld rework in the Carbon Auxiliary Lines - 3 days
+Closed;Riser;SAM;Macae;Riser Joint;QTR-3500;2;APS-118 & APS-128;;;Transactional;Constellation;Alpha Star;470005601;2025;Closed;26/06/2025;14/07/2025;22/07/2025;23/07/2025;04/08/2025;Closed;04/08/2025;05/08/2025;06/08/2025;28/08/2025;Yes;The parts were sold and considered in the PSI.;Closed;04/09/2025;11/09/2025;16/09/2025;
+Wip;Pressure Control;SAM;Macae;Ram Block;Variable Ram;1;FOR-RB-001 / 002;;;Transactional;Foresea;ODN II;470005904;2025;Closed;27/08/2025;28/08/2025;01/09/2025;02/09/2025;03/09/2025;Closed;24/09/2025;26/09/2025;26/09/2025;03/11/2025;No;The customer never buys the parts with HMH, he always delivers your parts to HMH.;N/A;;;26/11/2025;
+Closed;Pressure Control;SAM;Macae;H4 Connector;SHD;1;CON-LB-010;-;-;FPA;Constellation;Brava Star;470005885;2025;Closed;12/08/2025;18/08/2025;07/09/2025;15/09/2025;16/09/2025;Closed;01/10/2025;03/10/2025;06/10/2025;26/11/2025;Yes;The Complete FPA Scope was sold.;Closed;16/02/2026;27/02/2026;03/03/2026;"* On D&I we need to priorize Laguna Star CSA project with inspection resources;
+* Cam ring & Wear ring was received from Customer on W05/26 used. Necessary excute D&I"
+Wip;Riser;SAM;Macae;Riser Joint;QTR-3500;1;Riser Adapter;-;-;Short Cycle;Constellation;Lone Star;470005402;2025;Closed;31/05/2025;03/06/2025;06/06/2025;06/06/2025;09/06/2025;Closed;26/06/2025;27/06/2025;01/07/2025;22/08/2025;No;This equipment was a short-cycle scope and doesn’t need an assembly.;N/A;;;20/09/2025;
+Waiting PO;Riser;SAM;Macae;Telescopic Joint;QTR-3500;1;TJ LNS-002;-;-;Transactional;Constellation;Lone Star;470005598;2025;Closed;12/08/2025;18/08/2025;17/09/2025;08/10/2025;28/10/2025;Waiting PO;;;;;Yes;The parts were sold and considered in the PSI.;Waiting Other Phase;;;;* On D&I, the Project Management requested that stop for 7 days this project to attend a high demand of TJ-LNS-001
+Closed;Pressure Control;SAM;Macae;H4 Connector;ExF;1;TRA-UP-4;-;-;FPA;Transocean;Petrobras 10.000;470006234;2025;Closed;24/10/2025;27/10/2025;10/11/2025;22/11/2025;25/11/2025;Closed;15/12/2025;16/12/2025;16/12/2025;15/01/2026;Yes;The Complete FPA Scope was sold.;WIP;16/02/2026;01/03/2026;;"* 1 week delay awaiting correct instrument for measurement 
+* Hold & witness point DNV/TOI"
+Closed;Pressure Control;SAM;Macae;H4 Connector;ExF;1;CON-UP-11;-;-;FPA;Constellation;Brava Star;470006270;2025;Closed;07/10/2025;08/10/2025;21/10/2025;29/10/2025;29/10/2025;Closed;30/10/2025;03/11/2025;04/11/2025;15/11/2025;Yes;The Complete FPA Scope was sold.;Closed;17/11/2025;01/12/2025;17/12/2025;* Atraso na falta de peças
+Closed;Pressure Control;SAM;Macae;H4 Connector;DxE;1;CON-UP-12;-;-;FPA;Constellation;Brava Star;470006272;2025;Closed;20/10/2025;21/10/2025;05/11/2025;13/11/2025;17/11/2025;Closed;18/11/2025;18/11/2025;18/11/2025;08/12/2025;Yes;The Complete FPA Scope was sold.;Closed;13/01/2026;26/01/2026;25/02/2026;"* The upper body was used for assembly with the 470000706 
+* Waiting Upper Body from 470006117 to assembly"
+Wip;Pressure Control;SAM;Macae;ABOP;"18-3/4""";1;FOR-AB-002;-;-;Transactional;Foresea;Norbe VI;470006450;2025;Closed;28/10/2025;03/11/2025;16/11/2025;26/11/2025;02/12/2025;WIP;03/02/2026;11/02/2026;12/02/2026;;No;The customer never buys the parts with HMH, he always delivers your parts to HMH.;Waiting Other Phase;;;;"* Repair phase - Some parts will be machined at the sub supplier (Labodiesel)
+* Internal discussions by the process team on the best method for repairing the piston (1 week delay)"
+Closed;Pressure Control;SAM;Macae;ABOP;"18-3/4""";1;CON-AB-002;-;-;Transactional;Constellation;Lone Star;470006472;2025;Closed;11/11/2025;12/11/2025;21/11/2025;27/11/2025;03/12/2025;Closed;19/12/2025;18/12/2025;30/12/2025;16/01/2026;Yes;The parts were sold and considered in the PSI.;Closed;30/01/2026;04/02/2026;06/02/2026;"*Repair phase - 1 day delay because the HBM door was in maintenance
+*T&A phase only the chamber will be tested (close/open)"
+Closed;Pressure Control;SAM;Macae;H4 Connector;DxE;1;CON-LB-002;-;-;Transactional;Constellation;Lone Star;470000706;2025;N/A;;;;;;N/A;;;;;Yes;The parts were sold and considered in the PSI.;Closed;09/12/2025;19/12/2025;26/12/2025;* The upper body was received from 470006272 for assembly
+Wip;Pressure Control;SAM;Macae;H4 Connector;DxE;1;CON-UB-013;-;-;FPA;Constellation;Amaralina Star;470006117;2026;Closed;15/01/2026;16/01/2026;19/01/2026;21/01/2026;22/01/2026;Closed;26/01/2026;26/01/2026;27/01/2026;14/02/2026;Yes;The Complete FPA Scope was sold.;N/A;;;24/02/2026;"* The upper body was received from 470006117 for assembly 470006272
+* Machining base metal In house (HBM) / Machining VX/VT with sub supplier D21"
+Wip;Topsides;SAM;Macae;Telescopic Joint;QTR-3500;1;APS-001;-;-;Transactional;Constellation;Alpha Star;470006748;2026;WIP;22/01/2026;26/01/2026;;;;Waiting Other Phase;;;;;Yes;The parts were sold and considered in the PSI.;Waiting Other Phase;;;;* Delay due to insufficient labor for disassembly during the docking period of the Lone and Amaralina rigs
+Closed;Pressure Control;SAM;Macae;Diverter;FS21;1;;-;-;Transactional;Constellation;Lone Star;470005982;2026;Closed;30/01/2026;30/01/2026;07/02/2026;09/02/2026;09/02/2026;Closed;11/02/2026;12/02/2026;12/02/2026;07/03/2026;Yes;The parts were sold and considered in the PSI, but the scope was redefined for SOF and did not use the total kit by PSI.;Closed;05/03/2026;09/03/2026;09/03/2026;"* The fastest Diverter D&I ever performed
+* Multiple challenges with this repair (Body/Base/Piston)
+* Was repaired the last time by the VRV
+* The fastest Diverter A&T ever performed"
+Wip;Pressure Control;SAM;Macae;H4 Connector;DxE;1;CON-UB-014;-;-;Short Cycle;Constellation;Lone Star;470007311;2026;Closed;04/02/2026;05/02/2026;06/02/2026;06/02/2026;07/02/2026;Closed;07/02/2026;08/02/2026;08/02/2026;16/02/2026;No;This equipment was a short-cycle scope and doesn’t need an assembly.;N/A;;;20/02/2026;
+Wip;Pressure Control;SAM;Macae;Test Stump;"16-3/4""";1;CON-TS-001;-;-;Transactional;Constellation;Lone Star;470007305;2026;Closed;05/02/2026;06/02/2026;10/02/2026;12/02/2026;13/02/2026;WIP;13/02/2026;13/02/2026;14/02/2026;;No;This equipment doesn’t need parts to assembly.;Waiting Other Phase;;;;* Challenges with the disassembly of hydraulic instrumentation
+Waiting PO;Pressure Control;SAM;Macae;Bonnet;22-5K;1;FOR-BB-004;-;-;Transactional;Foresea;ODN I;470007298;2026;Waiting PO;;;;;;Waiting PO;;;;;No;The customer never buys the parts with HMH, he always delivers your parts to HMH.;Waiting Other Phase;;;;
+Wip;Topsides;SAM;Macae;Gripper Head;N/A;1;;-;-;Transactional;Noble;Ocean Courage;470007309;2026;WIP;11/02/2026;10/03/2026;;;;Waiting Other Phase;;;;;Yes;The parts were sold and considered in the PSI.;Waiting Other Phase;;;;
+Waiting PO;Topsides;SAM;Macae;DDM;1000 AC-2M;1;;-;-;Transactional;Ventura;SSV - Victoria;4602786;2026;Waiting PO;10/02/2026;;;;;Waiting PO;;;;;No;The customer prefers delivery of the parts for HMH.;Waiting Other Phase;;;;
+Wip;Pressure Control;SAM;Macae;H4 Connector;SHD;1;;H429235-2;209375-1;Short Cycle;Valaris;DS-17;470007439;2026;WIP;20/02/2026;02/03/2026;;;;Waiting Other Phase;;;;;No;This equipment was a short-cycle scope and doesn’t need an assembly.;Waiting Other Phase;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
